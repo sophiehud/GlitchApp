@@ -1,0 +1,57 @@
+{
+  "bookmarklistCollection": [
+    {
+      "id": "01",
+      "title": "HTML Learning Resources",
+      "bookmarks": [
+        {
+          "id": "04",
+          "title": "Sitepoint",
+          "link": "https://www.sitepoint.com/html-css/"
+        },
+        {
+          "id": "05",
+          "title": "Google HTML Style Guide",
+          "link": "https://google.github.io/styleguide/htmlcssguide.xml"
+        },
+        {
+          "id": "06",
+          "title": "Front End Focus",
+          "link": "http://frontendfocus.co/issues"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "CSS Learning Resources",
+      "bookmarks": [
+        {
+          "id": "07",
+          "title": "W3C Learn CSS",
+          "link": "https://www.w3.org/Style/CSS/learning"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Javascript Learning Resources",
+      "bookmarks": [
+        {
+          "id": "10",
+          "title": "Eloquent Javascript",
+          "link": "http://eloquentjavascript.net/"
+        },
+        {
+          "id": "11",
+          "title": "Free Code Camp",
+          "link": "https://www.freecodecamp.com/"
+        },
+        {
+          "id": "12",
+          "title": "Javascript Weekly",
+          "link": "http://javascriptweekly.com/issues"
+        }
+      ]
+    }
+  ]
+}
